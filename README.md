@@ -50,9 +50,9 @@ This program is designed to simulate various types of SQL Injection attacks and 
 
 
 
-# Project XYZ
+# SQL Criminal
 
-Welcome to the XYZ project. This project requires `git` to clone the repository and `python` to run the scripts.
+Welcome to the SQL Criminal project. This project requires `git` to clone the repository and `python` to run the scripts.
 
 ## Dependencies
 
@@ -123,6 +123,6 @@ Welcome to the XYZ project. This project requires `git` to clone the repository 
 To clone the repository and run the script, execute the following commands:
 
 ```sh
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/c0mrade002/sql-criminal.git
+cd sql-criminal
 python3 script.py
