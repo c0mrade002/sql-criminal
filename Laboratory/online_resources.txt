@@ -1,0 +1,20 @@
+----------------------------------------------------------
+### SQL Security Testing:
+
+1. **Netsparker**: [Website](https://www.netsparker.com/)
+2. **Acunetix**: [Website](https://www.acunetix.com/)
+3. **Burp Suite Professional**: [Website](https://portswigger.net/burp)
+4. **OWASP ZAP (Zed Attack Proxy)**: [Website](https://www.zaproxy.org/)
+5. **SQLMap**: [GitHub Repository](https://github.com/sqlmapproject/sqlmap)
+
+----------------------------------------------------------
+
+### Other Database Security Tools:
+
+6. **AWS Security Hub**: [Website](https://aws.amazon.com/security-hub/)
+7. **IBM Security Guardium**: [Website](https://www.ibm.com/security/guardium)
+8. **Qualys**: [Website](https://www.qualys.com/)
+9. **Nessus**: [Website](https://www.tenable.com/products/nessus)
+10. **OpenVAS (Open Vulnerability Assessment System)**: [Website](https://www.openvas.org/)
+
+----------------------------------------------------------
