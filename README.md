@@ -92,6 +92,9 @@ cd sql-criminal
 python3 script.py
 
 # screenshot of the tools 
+# My Project
+
+This project demonstrates various tools and their usage through the following screenshots.
 
 ## First example:
 ![Screenshot](https://i.ibb.co/cTs49gP/Screenshot-20240611-035336-Termux.jpg)
@@ -120,3 +123,19 @@ python3 script.py
 
 ## Sixth example:
 ![Screenshot](https://i.ibb.co/5vMHSnb/Screenshot-20240611-035730-Termux.jpg)
+
+---
+
+### How to Use
+
+1. Clone the repository.
+2. Open the project in your favorite editor.
+3. Follow the instructions in the provided examples to understand how to utilize the tools.
+
+### Contributing
+
+Feel free to contribute to this project by submitting pull requests or opening issues for any bugs you find.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
