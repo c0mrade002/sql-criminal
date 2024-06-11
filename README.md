@@ -11,6 +11,7 @@ This program is designed to simulate various types of SQL Injection attacks and 
 🐧 chmod +x *.pyc  
 🐧 ls (Choose the tool)  
 🐧 cat dict.txt  
+🐧 cat DB_scan_console.txt
 🐧 python sql_crimiinal.pyc  
 🐧 cd Laboratory  
 🐧 chmod +x infoDB.pyc  
