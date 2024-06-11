@@ -91,49 +91,50 @@ git clone https://github.com/c0mrade002/sql-criminal.git
 cd sql-criminal
 python3 script.py
 
-<h1>💯 Screenshot of my tools</h1>
+# 💯 Screenshot of My Tools
 
-<p>This project demonstrates various tools and their usage through the following screenshots.</p>
+This project demonstrates various tools and their usage through the following screenshots.
 
-<h2>First example:</h2>
-<p><img src="https://i.ibb.co/cTs49gP/Screenshot-20240611-035336-Termux.jpg" alt="Screenshot"></p>
+## First example:
+![Screenshot](https://i.ibb.co/cTs49gP/Screenshot-20240611-035336-Termux.jpg)
 
-<hr>
+---
 
-<h2>Second example:</h2>
-<p><img src="https://i.ibb.co/Pz63Bhb/Screenshot-20240611-035437-Termux.jpg" alt="Screenshot"></p>
+## Second example:
+![Screenshot](https://i.ibb.co/Pz63Bhb/Screenshot-20240611-035437-Termux.jpg)
 
-<hr>
+---
 
-<h2>Third example:</h2>
-<p><img src="https://i.ibb.co/8df92Q3/Screenshot-20240611-035531-Termux.jpg" alt="Screenshot"></p>
+## Third example:
+![Screenshot](https://i.ibb.co/8df92Q3/Screenshot-20240611-035531-Termux.jpg)
 
-<hr>
+---
 
-<h2>Fourth example:</h2>
-<p><img src="https://i.ibb.co/R6rTrJQ/Screenshot-20240611-035549-Termux.jpg" alt="Screenshot"></p>
+## Fourth example:
+![Screenshot](https://i.ibb.co/R6rTrJQ/Screenshot-20240611-035549-Termux.jpg)
 
-<hr>
+---
 
-<h2>Fifth example:</h2>
-<p><img src="https://i.ibb.co/qrHs9BP/Screenshot-20240611-035646-Termux.jpg" alt="Screenshot"></p>
+## Fifth example:
+![Screenshot](https://i.ibb.co/qrHs9BP/Screenshot-20240611-035646-Termux.jpg)
 
-<hr>
+---
 
-<h2>Sixth example:</h2>
-<p><img src="https://i.ibb.co/5vMHSnb/Screenshot-20240611-035730-Termux.jpg" alt="Screenshot"></p>
+## Sixth example:
+![Screenshot](https://i.ibb.co/5vMHSnb/Screenshot-20240611-035730-Termux.jpg)
 
-<hr>
+---
 
-<h3>How to Use</h3>
-<ol>
-    <li>Clone the repository.</li>
-    <li>Open the project in your favorite editor.</li>
-    <li>Follow the instructions in the provided examples to understand how to utilize the tools.</li>
-</ol>
+### How to Use
 
-<h3>Contributing</h3>
-<p>Feel free to contribute to this project by submitting pull requests or opening issues for any bugs you find.</p>
+1. Clone the repository.
+2. Open the project in your favorite editor.
+3. Follow the instructions in the provided examples to understand how to utilize the tools.
 
-<h3>License</h3>
-<p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
+### Contributing
+
+Feel free to contribute to this project by submitting pull requests or opening issues for any bugs you find.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
