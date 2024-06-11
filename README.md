@@ -138,12 +138,3 @@ This project demonstrates various tools and their usage through the following sc
 1. Clone the repository.
 2. Open the project in your favorite editor.
 3. Follow the instructions in the provided examples to understand how to utilize the tools.
-
-## Contributing
-
-Feel free to contribute to this project by submitting pull requests or opening issues for any bugs you find.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
