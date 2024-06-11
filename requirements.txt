@@ -1,3 +1,4 @@
 colorama
 python-whois
 requests
+beautifulsoup4
