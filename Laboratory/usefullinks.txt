@@ -1,0 +1,23 @@
+# 10 Useful Sites for Finding Technical Details on Databases
+
+1. **🛡️ Cybersecurity 360** - Offers in-depth articles on critical software vulnerabilities, including security updates and technical details on identified vulnerabilities [Cybersecurity 360](https://www.cybersecurity360.it/nuove-minacce/aggiornamenti-microsoft-giugno-2023-corrette-78-vulnerabilita-di-cui-quattro-critiche-tutti-i-dettagli/).
+
+2. **🔒 Red Hat** - Describes vulnerability management in detail, including the process of identifying, assessing, and fixing security flaws [Red Hat](https://www.redhat.com/it/topics/security/what-is-vulnerability-management).
+
+3. **🗝️ Thales Group** - Provides information on database protection and encryption, covering solutions for securing sensitive data and managing encryption keys [Thales Group](https://cpl.thalesgroup.com/it/encryption/database-security).
+
+4. **🌐 ITIGIC** - Includes information on major vulnerability databases like CERT and NVD, with technical details and solutions for managing vulnerabilities [ITIGIC](https://itigic.com/it/vulnerability-databases-to-check-security-flaws/).
+
+5. **🔍 Debricked** - A vulnerability database that allows you to identify publicly disclosed vulnerabilities in open source software [Debricked](https://debricked.com/vulnerability-database#:~:text=URL%3A%20https%3A%2F%2Fdebricked.com%2Fvulnerability).
+
+6. **📊 National Vulnerability Database (NVD)** - A comprehensive repository managed by NIST, hosting data on software vulnerabilities and providing tools for vulnerability management [NVD](https://www.redhat.com/it/topics/security/what-is-vulnerability-management).
+
+7. **🛠️ CERT/CC Vulnerability Notes Database** - Managed by Carnegie Mellon University, it offers detailed information on specific vulnerabilities and security solutions [CERT/CC](https://itigic.com/it/vulnerability-databases-to-check-security-flaws/).
+
+8. **🖥️ Qualys** - Offers a complete vulnerability management solution, including asset detection and classification and vulnerability scanning [Qualys](https://www.cybersecurity360.it/nuove-minacce/aggiornamenti-microsoft-giugno-2023-corrette-78-vulnerabilita-di-cui-quattro-critiche-tutti-i-dettagli/).
+
+9. **🔧 Microsoft Security Update Guide** - Provides details on security updates and vulnerabilities fixed in Microsoft products [Microsoft Security Update Guide](https://www.cybersecurity360.it/nuove-minacce/aggiornamenti-microsoft-giugno-2023-corrette-78-vulnerabilita-di-cui-quattro-critiche-tutti-i-dettagli/).
+
+10. **📚 Vulnerability Notes Database by the CERT Division** - Another detailed resource covering vulnerabilities in computer systems and providing mitigation measures [CERT Division](https://itigic.com/it/vulnerability-databases-to-check-security-flaws/).
+
+These sites offer a wide range of resources and technical information to help manage database security and protect against critical vulnerabilities.
