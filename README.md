@@ -91,7 +91,6 @@ git clone https://github.com/c0mrade002/sql-criminal.git
 cd sql-criminal
 python3 script.py
 
-
 # screenshot of the tools 
 
 ## First example:
