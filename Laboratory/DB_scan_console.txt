@@ -1,0 +1,138 @@
+```markdown
+# Scanning a Database via Terminal 🖥️
+
+Scanning a database via terminal can be done using various tools depending on the type of database. Here is a detailed guide on how to do it for the most common databases: MySQL, PostgreSQL, and SQLite. I will cover the necessary tools, dependencies, and detailed procedures for each.
+
+## 1. MySQL/MariaDB 🐬
+
+### Tools and Dependencies:
+- **MySQL** or **MariaDB** client
+- **MySQL Workbench** (optional for a GUI)
+- **Python** with libraries like `mysql-connector-python` (optional for scripting)
+
+### Installation:
+```bash
+sudo apt update
+sudo apt install mysql-client
+# For MariaDB
+sudo apt install mariadb-client
+# For Python connector
+pip install mysql-connector-python
+```
+
+### Procedure:
+1. **Access the database**:
+    ```bash
+    mysql -u username -p -h hostname -D database_name
+    ```
+2. **Show tables**:
+    ```sql
+    SHOW TABLES;
+    ```
+3. **Describe a table**:
+    ```sql
+    DESCRIBE table_name;
+    ```
+4. **Run a query**:
+    ```sql
+    SELECT * FROM table_name LIMIT 10;
+    ```
+
+## 2. PostgreSQL 🐘
+
+### Tools and Dependencies:
+- **psql** (PostgreSQL client)
+- **pgAdmin** (optional for a GUI)
+- **Python** with libraries like `psycopg2` (optional for scripting)
+
+### Installation:
+```bash
+sudo apt update
+sudo apt install postgresql-client
+# For Python connector
+pip install psycopg2
+```
+
+### Procedure:
+1. **Access the database**:
+    ```bash
+    psql -h hostname -U username -d database_name
+    ```
+2. **Show tables**:
+    ```sql
+    \dt
+    ```
+3. **Describe a table**:
+    ```sql
+    \d table_name
+    ```
+4. **Run a query**:
+    ```sql
+    SELECT * FROM table_name LIMIT 10;
+    ```
+
+## 3. SQLite 🗃️
+
+### Tools and Dependencies:
+- **sqlite3** (SQLite client)
+- **DB Browser for SQLite** (optional for a GUI)
+- **Python** with libraries like `sqlite3` (standard library)
+
+### Installation:
+```bash
+sudo apt update
+sudo apt install sqlite3
+# Python connector is included in the standard library
+```
+
+### Procedure:
+1. **Access the database**:
+    ```bash
+    sqlite3 database_name.db
+    ```
+2. **Show tables**:
+    ```sql
+    .tables
+    ```
+3. **Describe a table**:
+    ```sql
+    PRAGMA table_info(table_name);
+    ```
+4. **Run a query**:
+    ```sql
+    SELECT * FROM table_name LIMIT 10;
+    ```
+
+## Additional Tools 🛠️
+
+### 1. SQLmap 🛠️
+An open-source tool for testing SQL injection vulnerabilities.
+
+#### Installation:
+```bash
+sudo apt update
+sudo apt install sqlmap
+```
+
+#### Basic usage:
+```bash
+sqlmap -u "http://example.com/vuln_page.php?id=1"
+```
+
+### 2. Nmap with NSE 🔍
+To perform specific scans on database services.
+
+#### Installation:
+```bash
+sudo apt update
+sudo apt install nmap
+```
+
+#### Example usage:
+```bash
+nmap --script=mysql-brute -p 3306 target_ip
+```
+
+## Conclusion 📋
+These are the fundamental methods to scan and interact with various types of databases via terminal. Each database has its specific tools and commands, but once you master these basic tools, it becomes easy to explore and manipulate data efficiently.
+```
