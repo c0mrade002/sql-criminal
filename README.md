@@ -96,7 +96,7 @@ To clone the repository and run the script, execute the following commands:
 ```sh
 git clone https://github.com/c0mrade002/sql-criminal.git
 cd sql-criminal
-python3 script.py
+python sql_criminal.pyc
 ```
 
 ## 💯 Screenshot of My Tools
