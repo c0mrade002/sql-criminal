@@ -18,7 +18,7 @@ Questo programma è progettato per simulare vari tipi di attacchi SQL Injection 
 ![Security](https://www.keepersecurity.com/blog/wp-content/uploads/2023/03/blog@2x-12-1024x349.jpg)
 # ⚠️ l'utilizzo di questo strumento senza autorizzazione o fondazione può comportare gravi danni a un sistema remoto con conseguenze penali e sanzioni elevate. Assicurati di utilizzarlo con le dovute precauzioni. Buon proseguimento 
 
-# Esempi di Screenshot
+# screenshot of the tools 
 
 ## First example:
 ![Screenshot](https://i.ibb.co/cTs49gP/Screenshot-20240611-035336-Termux.jpg)
