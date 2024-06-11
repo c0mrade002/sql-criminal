@@ -91,8 +91,7 @@ git clone https://github.com/c0mrade002/sql-criminal.git
 cd sql-criminal
 python3 script.py
 
-# screenshot of the tools 
-# My Project
+# 💯 screenshot of my tools 
 
 This project demonstrates various tools and their usage through the following screenshots.
 
