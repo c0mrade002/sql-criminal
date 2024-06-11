@@ -10,10 +10,10 @@ This program is designed to simulate various types of SQL Injection attacks and 
 🐧 pip install -r requirements.txt  
 🐧 chmod +x *.pyc  
 🐧 ls (Choose the tool)  
-🐧 cat dict.txt  
-🐧 cat DB_scan_console.txt
 🐧 python sql_crimiinal.pyc  
 🐧 cd Laboratory  
+🐧 cat dict.txt  
+🐧 cat DB_scan_console.txt
 🐧 chmod +x infoDB.pyc  
 🐧 ls (Look at the other files)  
 🐧 python infoDB.pyc
