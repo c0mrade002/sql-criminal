@@ -5,12 +5,17 @@ This program is designed to simulate various types of SQL Injection attacks and 
 ## ❣️ Installation and Execution
 
 ```sh
-🐧 git clone https://github.com/c0mrade002/sql-criminal
-🐧 cd sql-criminal
-🐧 pip install -r requirements.txt
-🐧 chmod +x *.pyc
-🐧 ls (Choose the tool)
-🐧 python sql_crimiinal.pyc
+🐧 git clone https://github.com/c0mrade002/sql-criminal  
+🐧 cd sql-criminal  
+🐧 pip install -r requirements.txt  
+🐧 chmod +x *.pyc  
+🐧 ls (Choose the tool)  
+🐧 cat dict.txt  
+🐧 python sql_crimiinal.pyc  
+🐧 cd Laboratory  
+🐧 chmod +x infoDB.pyc  
+🐧 ls (Look at the other files)  
+🐧 python infoDB.pyc
 ```
 
 ## 🟢 Attention!!
