@@ -48,3 +48,81 @@ This program is designed to simulate various types of SQL Injection attacks and 
 ## Sixth example:
 ![Screenshot](https://i.ibb.co/5vMHSnb/Screenshot-20240611-035730-Termux.jpg)
 
+
+
+# Project XYZ
+
+Welcome to the XYZ project. This project requires `git` to clone the repository and `python` to run the scripts.
+
+## Dependencies
+
+### Termux
+1. **Update packages:**
+    ```sh
+    pkg update && pkg upgrade
+    ```
+2. **Install git and python:**
+    ```sh
+    pkg install git python
+    ```
+
+### UserLAnd (for Android)
+1. **Open UserLAnd and create a new Ubuntu session.**
+2. **Inside the session, update packages:**
+    ```sh
+    sudo apt update && sudo apt upgrade
+    ```
+3. **Install git and python:**
+    ```sh
+    sudo apt install git python3 python3-pip
+    ```
+
+### iSH (Alpine Linux for iOS)
+1. **Update packages:**
+    ```sh
+    apk update && apk upgrade
+    ```
+2. **Install git and python:**
+    ```sh
+    apk add git python3 py3-pip
+    ```
+
+### Linux/Ubuntu
+1. **Update packages:**
+    ```sh
+    sudo apt update && sudo apt upgrade
+    ```
+2. **Install git and python:**
+    ```sh
+    sudo apt install git python3 python3-pip
+    ```
+
+### macOS
+1. **Install Homebrew (if not already installed):**
+    ```sh
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    ```
+2. **Update Homebrew:**
+    ```sh
+    brew update
+    ```
+3. **Install git and python:**
+    ```sh
+    brew install git python
+    ```
+
+### Windows
+1. **Install Git for Windows:**
+    - Download and install Git from [gitforwindows.org](https://gitforwindows.org/).
+2. **Install Python:**
+    - Download and install Python from [python.org](https://www.python.org/downloads/).
+    - During installation, make sure to select "Add Python to PATH".
+
+## Clone the Repository
+
+To clone the repository and run the script, execute the following commands:
+
+```sh
+git clone https://github.com/your-username/your-repository.git
+cd your-repository
+python3 script.py
