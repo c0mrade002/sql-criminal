@@ -19,5 +19,14 @@ Questo programma è progettato per simulare vari tipi di attacchi SQL Injection 
 # ⚠️ l'utilizzo di questo strumento senza autorizzazione o fondazione può comportare gravi danni a un sistema remoto con conseguenze penali e sanzioni elevate. Assicurati di utilizzarlo con le dovute precauzioni. Buon proseguimento 
 
 # examples of tool screenshots 
-# example number 1
-![Security](https://ibb.co/ryXDh7g)
+# example 
+
+
+<a href="https://ibb.co/ryXDh7g"><img src="https://i.ibb.co/cTs49gP/Screenshot-20240611-035336-Termux.jpg" alt="Screenshot-20240611-035336-Termux" border="0"></a>
+<a href="https://ibb.co/4gV9BTD"><img src="https://i.ibb.co/Pz63Bhb/Screenshot-20240611-035437-Termux.jpg" alt="Screenshot-20240611-035437-Termux" border="0"></a>
+<a href="https://ibb.co/X3KtpGB"><img src="https://i.ibb.co/8df92Q3/Screenshot-20240611-035531-Termux.jpg" alt="Screenshot-20240611-035531-Termux" border="0"></a>
+<a href="https://ibb.co/94KHKdy"><img src="https://i.ibb.co/R6rTrJQ/Screenshot-20240611-035549-Termux.jpg" alt="Screenshot-20240611-035549-Termux" border="0"></a>
+<a href="https://ibb.co/hmGWHst"><img src="https://i.ibb.co/qrHs9BP/Screenshot-20240611-035646-Termux.jpg" alt="Screenshot-20240611-035646-Termux" border="0"></a>
+<a href="https://ibb.co/ft1wynj"><img src="https://i.ibb.co/5vMHSnb/Screenshot-20240611-035730-Termux.jpg" alt="Screenshot-20240611-035730-Termux" border="0"></a>
+
+
