@@ -1,6 +1,0 @@
-filetype:xml inurl:database password
-filetype:xml inurl:database_config password
-filetype:xml inurl:db password
-filetype:xml inurl:db_config password
-filetype:xml inurl:db_credentials password
-filetype:xml inurl:credentials password
