@@ -1,0 +1,32 @@
+--------------------------------------------------------------------------------
+SQL Protocols and Ports:
+- Protocol: TCP/IP
+- Default Port: 1433
+--------------------------------------------------------------------------------
+
+Administrative Details That Could Create Vulnerabilities:
+
+1. Insufficient Access Permissions:
+   Description: Inadequate access permissions to databases or objects within them can lead to unauthorized access or misuse of sensitive data.
+   
+2. Weak or Default Passwords:
+   Description: Using weak or default passwords for SQL accounts poses a significant security risk, as they are more susceptible to brute-force attacks.
+   
+3. Lack of Patching and Security Updates:
+   Description: Failure to apply patches and security updates to the SQL Server software leaves the system vulnerable to known exploits and vulnerabilities.
+   
+4. Unnecessary Exposure of SQL Server:
+   Description: Exposing the SQL server unnecessarily to the public network increases the attack surface and exposes it to potential threats from malicious actors.
+   
+5. Configuration Errors Allowing SQL Injection:
+   Description: Configuration errors that allow the execution of malicious SQL queries (SQL injection) can lead to data breaches and compromise the integrity of the database.
+   
+6. Inadequate Monitoring and Logging:
+   Description: Lack of robust monitoring and logging of database activities makes it difficult to detect and respond to suspicious behavior or security incidents.
+   
+7. Poor Control of Database Administrator Accounts:
+   Description: Inadequate control over database administrator accounts and associated privileges can result in unauthorized access to critical database resources.
+   
+--------------------------------------------------------------------------------
+
+Ensure to implement robust security practices and follow recommended guidelines to effectively protect SQL systems from potential threats.
