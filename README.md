@@ -1,7 +1,7 @@
-# 📞 iniezioni SQL con SQL criminal 🥷
-Questo programma è progettato per simulare vari tipi di attacchi SQL Injection e altre azioni malevole per testare la robustezza e la sicurezza di un database SQLite. È utile per scopi educativi e di auditing di sicurezza per comprendere come le vulnerabilità possono essere sfruttate e come prevenirle.
+# 📞 SQL injections with SQL criminal 🥷
+This program is designed to simulate various types of SQL Injection attacks and other malicious actions to test the robustness and security of a SQLite database.  It is useful for educational and security auditing purposes to understand how vulnerabilities can be exploited and how to prevent them.
 
-# ❣️ INSTALLAZIONE ED ESECUZIONE 
+# ❣️ INSTALLATION AND EXECUTION  
 🐧 git clone https://github.com/c0mrade002/sql-criminal
 
 🐧 cd sql-criminal
@@ -14,9 +14,9 @@ Questo programma è progettato per simulare vari tipi di attacchi SQL Injection 
 
 🐧 python sql_crimiinal.pyc
 
-# 🟢 ATTENZIONE!! 
+# 🟢 ATTENTION!! 
 ![Security](https://www.keepersecurity.com/blog/wp-content/uploads/2023/03/blog@2x-12-1024x349.jpg)
-# ⚠️ l'utilizzo di questo strumento senza autorizzazione o fondazione può comportare gravi danni a un sistema remoto con conseguenze penali e sanzioni elevate. Assicurati di utilizzarlo con le dovute precauzioni. Buon proseguimento 
+# ⚠️ Using this tool without permission or foundation can lead to serious damage to a remote system with criminal consequences and high fines.  Make sure you use it with due precautions.  Good continuation
 
 # screenshot of the tools 
 
