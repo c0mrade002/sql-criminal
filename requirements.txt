@@ -1,5 +1,7 @@
 colorama
 termcolor
 python-whois
-requests
 beautifulsoup4
+requests==2.25.1
+numpy==1.19.5
+pandas==1.1.5
